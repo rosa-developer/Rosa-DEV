@@ -56,9 +56,9 @@ Git, GitHub, VS Code, IntelliJ IDEA, Agile/Scrum
 ## 🔹 Connect With Me
 
 - [LinkedIn]](https://www.linkedin.com/in/rosa-kheiri-11100964/) 
-- [Portfolio](](https://my-app-tool.vercel.app/))  
+- [Portfolio]((https://my-app-tool.vercel.app/))  
 
----
+
 
 ## 🔹 Quote That Inspires Me
 
