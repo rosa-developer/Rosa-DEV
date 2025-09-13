@@ -1,10 +1,12 @@
 # 👋 Hi, I’m Rosa
 
-**Full-Stack Developer • Passionate about Backend & Web Applications • Based in Canada**
+**Software Engineer & Full-Stack Developer • Passionate about Backend & Web Applications • Based in Canada**
 
 ---
 
 ## 🔹 About Me
+Java & React Developer
+Hello and welcome! I'm a passionate Full Stack Developer with over 9 years of experience crafting scalable, user-focused web applications. Specializing in Java, Spring Boot, React, and TypeScript, I build robust backend systems and intuitive front-end interfaces that solve real-world problems. From enterprise-grade health insurance platforms to innovative projects like EasySleep, my work blends technical expertise with a commitment to quality and innovation.
 
 - 🌱 Currently learning **Node.js, Backend Development & Advanced Java**  
 - 💡 9 years of experience in domain information technology **Java & Spring Boot, c# & SQL** (insurance domain, high-transaction systems)  
@@ -56,7 +58,7 @@ Git, GitHub, VS Code, IntelliJ IDEA, Agile/Scrum
 ## 🔹 Connect With Me
 
 - [LinkedIn]](https://www.linkedin.com/in/rosa-kheiri-11100964/) 
-- [Portfolio]((https://my-app-tool.vercel.app/))  
+- [Portfolio]:(https://my-app-tool.vercel.app/) 
 
 
 
