@@ -57,7 +57,8 @@ Git, GitHub, VS Code, IntelliJ IDEA, Agile/Scrum
 
 ## 🔹 Connect With Me
 
-- [LinkedIn]](https://www.linkedin.com/in/rosa-kheiri-11100964/) 
+- [LinkedIn]](https://www.linkedin.com/in/rosa-kheiri-11100964/)
+- Gmail: Rosa.kheiri@gmail.com
 
 
 
